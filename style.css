@@ -1,5 +1,6 @@
 body {
-	background-image: url("data/purplebckg.png");
-	background-repeat: repeat-x;
+	color: rgb(102, 45, 133);
+	background-image: url("data/purplebckglight.png");
+	background-position: center;
 	text-align: center;
 }
